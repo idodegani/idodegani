@@ -12,7 +12,7 @@
 - ✍ You can find my SQL projects here [portfolio](https://github.com/kamararichards/SQL-Portfolio-Projects)
 - 👀 I’m interested in improving my skills in R and SQL
 
-### Talk with me, I would like to meet you:
+#### 📫 Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-IdoDegani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-degani/)
 [![Mail Badge](https://img.shields.io/badge/-IdoDegani10-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:idodegani10@gmail.com)
 
