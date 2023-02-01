@@ -14,6 +14,7 @@
 
 ### Talk with me, I would like to meet you:
 [View LinkedIn Profile](https://www.linkedin.com/in/idodegani/)
+[![Mail Badge](https://img.shields.io/badge/-idodegani10-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:idodegani10@gmail.com)
 
 <br />
 
