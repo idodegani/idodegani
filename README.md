@@ -14,7 +14,7 @@
 
 ### Talk with me, I would like to meet you:
 [![Linkedin Badge](https://img.shields.io/badge/-IdoDegani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-degani/)
-[![Mail Badge](https://img.shields.io/badge/-idodegani10-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:idodegani10@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-IdoDegani10-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:idodegani10@gmail.com)
 
 <br />
 
