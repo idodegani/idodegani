@@ -4,12 +4,16 @@
 ## About me
 
 🔭 I’m currently a third-year Business and Data Analytics Honors student
+
 🌱 I’m currently focused on studying deep learning and advanced machine learning techniques using Pytorch and scikit-learn. 
+
 👯 I’m looking to join a fintech startup in a data science role 
+
 ⚡ Fun fact: I love surfing! 
 
 
 ✍ You can find my SQL projects here [portfolio](https://github.com/kamararichards/SQL-Portfolio-Projects)
+
 👀 I’m interested in improving my skills in R and SQL
 
 #### 📫 Reach me out!
