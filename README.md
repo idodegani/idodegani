@@ -7,56 +7,52 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-
-
-## My skills are
-
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-✍ You can find my SQL projects here portfolio
-👀 I’m interested in improving my skills in R and SQL
-🥅 My next goal will be to learn Python
-💞️ I’m looking to collaborate on R and SQL
-⚡ Fun Fact: My favorite comfort food is chocolate mint icecream
-Talk with me, I would like to meet you:
-View LinkedIn Profile
 
 
-Languages and Data Analytics Tools:
- SQL
- R Programming
- Microsoft Excel
- Eviews
- SPSS
- Nvivo
+- ✍ You can find my SQL projects here [portfolio](https://github.com/kamararichards/SQL-Portfolio-Projects)
+- 👀 I’m interested in improving my skills in R and SQL
+- 🥅 My next goal will be to learn Python
+- 💞️ I’m looking to collaborate on R and SQL
+- ⚡ Fun Fact: My favorite comfort food is chocolate mint icecream
 
-Data Visualization Tools:
- Microsoft Excel
- Tableau
- Power BI
+### Talk with me, I would like to meet you:
+[View LinkedIn Profile](https://www.linkedin.com/in/idodegani/)
 
-Questionnaire Design and Analysis Tools:
- Survey Monkey
- Qualtrics
- Jotform
+<br />
 
-Project Management Tools:
- Microsoft Projects
- Monday.com
- Github
- Slack
- Visio
- Asana
- Google Workspace
+## Programming Languages:
+- [x] Python 
+- [x] SQL
+- [x] R
 
-Customer Relationship Management (CRM):
- Monday.com
+<br />
 
-Work Experience:
-Company	Job Title	Sector	Duration
-CQ Consulting Services Inc	Strategy and Analytics Manager	Finance	Apr 2020 - Present
-JMMB Group Ltd	Manager Strategy Execution and Product Development	Finance	Mar 2016 - Jun 2019
-Development Bank of Jamaica	Research and Business Analytics Manager	Finance	Feb 2012 - Mar 2016
-Urban Development Corporation	Business Analyst	Government	Feb 2010 - Feb 2012
+### Data Science & Machine learning ools:
+- [x] scikit-learn
+- [x] Pytorch
+- [x] Pandas
+- [x] Numpy
+
+<br />
+
+### Data Analytics Tools:
+- [x] SQL
+- [x] Python 
+- [x] Microsoft Excel
+- [x] R Programming
+- [x] SPSS
+- [x] Nvivo
+
+<br />
+
+### Data Visualization Tools:
+- [x] Microsoft Excel
+- [x] Tableau
+- [x] Python 
+
+<br />
+
