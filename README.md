@@ -14,7 +14,7 @@
 
 ✍ You can find my SQL projects here [portfolio](https://github.com/idodegani/idodegani/tree/main/SQL%20Projects)
 
-👀 I’m interested in improving my skills in R and SQL
+👀 I’m interested in improving my skills in Machine Learning and SQL
 
 #### 📫 Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-IdoDegani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-degani/)
