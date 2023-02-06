@@ -12,7 +12,7 @@
 ⚡ Fun fact: I love surfing! 
 
 
-✍ You can find my SQL projects here [portfolio](https://github.com/kamararichards/SQL-Portfolio-Projects)
+✍ You can find my SQL projects here [portfolio](https://github.com/idodegani/idodegani/tree/main/SQL%20Projects)
 
 👀 I’m interested in improving my skills in R and SQL
 
