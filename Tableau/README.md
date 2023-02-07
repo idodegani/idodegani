@@ -1,52 +1,20 @@
-# Hi there, I'm Ido Degani 👋
+# 🗺 Portfolio Guide
+
+Hi there! 
+
+Welcome to my Tableau Portfolio Guide where I provide a walkthrough to all of my Tableau analytics projects.
+
+Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/ido-degani/) about my projects!
 
 
-## About me
+***
 
-🔭 I’m currently a third-year Business and Data Analytics Honors student
+# Tableau
 
-🌱 I’m currently focused on studying deep learning and advanced machine learning techniques using Pytorch and scikit-learn. 
+| Project Name | Description | Tableau Dashboard |
+|---|---|---|
+| 🎬 Netflix Content Review | I created a Tableau dashboard to analyze recent trends in Netflix movies and TV content. I designed an interactive chart that allows users to explore the data and uncover insights in a fun and engaging way. With this project, I demonstrate the power of Tableau in presenting complex information in a clear and intuitive way. | [Link](https://public.tableau.com/app/profile/ido.degani/viz/NetflixContentReview/Netflix) |
 
-👯 I’m looking to join a fintech startup in a data science role 
+![Netflix Content Review Dashboard](https://public.tableau.com/static/images/Ne/NetflixContentReview/Netflix/4_3.png)
 
-⚡ Fun fact: I love surfing! 
-
-
-✍ You can find my SQL projects here [portfolio](https://github.com/idodegani/idodegani/tree/main/SQL%20Projects)
-
-👀 I’m interested in improving my skills in Machine Learning and SQL
-
-#### 📫 Reach me out!
-[![Linkedin Badge](https://img.shields.io/badge/-IdoDegani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-degani/)
-[![Mail Badge](https://img.shields.io/badge/-IdoDegani10-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:idodegani10@gmail.com)
-
-
-## Programming Languages:
-- [x] Python 
-- [x] SQL
-- [x] R
-
-<br />
-
-### Data Science & Machine learning ools:
-- [x] scikit-learn
-- [x] Pytorch
-- [x] Pandas
-- [x] Numpy
-
-<br />
-
-### Data visualization Tools:
-- [x] Tableau
-- [x] Matplotlib (Python) 
-- [x] Microsoft Excel
-- [x] ggplot2 (R)
-<br />
-
-### Data Analytics Tools:
-- [x] SQL
-- [x] Pandas (Python) 
-- [x] Tableau
-
-<br />
-
+***
