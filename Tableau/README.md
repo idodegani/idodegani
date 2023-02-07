@@ -1,10 +1,10 @@
 # 🗺 Portfolio Guide
 
-Hi there! 🙋🏻‍♀️
+Hi there! 
 
 Welcome to my Tableau Portfolio Guide where I provide a walkthrough to all of my Tableau analytics projects.
 
-Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/idodegani/) about my projects!
+Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/ido-degani/) about my projects!
 
 
 ***
