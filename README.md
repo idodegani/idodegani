@@ -1,20 +1,14 @@
-# Hi there, I'm Ido Degani 👋
+Hi there, I'm Ido Degani 👋
+About Me
+🎓 I hold a Master’s in Computer Science, with a specialization in Data Science.
 
+💡 I'm an expert in machine learning, deep learning, and data engineering — with hands-on experience using PyTorch, scikit-learn, SQL, and cloud-native tools.
 
-## About me
+🧠 I'm especially passionate about Generative AI (GenAI) and the latest breakthroughs in LLMs, multimodal models, vector databases, and AI infrastructure. I regularly experiment with state-of-the-art models like GPT, Llama, and Mistral, and I stay up-to-date with the rapidly evolving AI ecosystem.
 
-🔭 I’m currently a third-year Business and Data Analytics Honors student
+🚀 I'm currently looking to join a fast-moving startup or team focused on solving real-world problems using AI, with a strong focus on productization and applied machine learning.
 
-🌱 I’m currently focused on studying deep learning and advanced machine learning techniques using Pytorch and scikit-learn. 
-
-👯 I’m looking to join a startup in a data science role 
-
-⚡ Fun fact: I love surfing! 
-
-
-✍ You can find my SQL projects here [portfolio](https://github.com/idodegani/idodegani/tree/main/SQL%20Projects)
-
-👀 I’m interested in improving my skills in Machine Learning and SQL
+⚡ Fun fact: When I'm not building with AI, you'll probably find me out surfing 🌊 — I find the ocean is the best place to clear my head and spark ideas.
 
 #### 📫 Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-IdoDegani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ido-degani/)
